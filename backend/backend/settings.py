@@ -9,7 +9,7 @@ SECRET_KEY = 'django-insecure-j_89af+30&&4qm*8z9_(^zz8p4-ho8z_m6ylm0s$h!-p@on1_^
 
 DEBUG = False
 
-ALLOWED_HOSTS = ['ypracticum.myftp.org', '127.0.0.1', 'localhost', '51.250.19.214',]
+ALLOWED_HOSTS = ['ypracticum.myftp.org', '127.0.0.1', 'localhost', '51.250.19.214', ]
 
 
 # Application definition
